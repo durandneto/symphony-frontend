@@ -101,7 +101,6 @@ export const getPackageStats = term => dispatch => {
       }
     })
     .catch(error => {
-      debugger
       dispatch(setLoading(false))
       dispatch(setError({
         error: true,

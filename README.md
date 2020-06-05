@@ -16,6 +16,7 @@
 * run `yarn or npm storybook` to see the components' documentation
 
 * You could check the system at http://localhost:3000
+* You could check the storybook at http://localhost:9009
 
 ## Next Steps
 > Refactory
