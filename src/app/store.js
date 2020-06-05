@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import BundleAnalyzerSlice from '../features/bundleAnalyzer/BundleAnalyzerSlice';
 
 export default configureStore({
   reducer: {
-    counter: counterReducer,
+    BundleAnalyzer: BundleAnalyzerSlice,
   },
 });

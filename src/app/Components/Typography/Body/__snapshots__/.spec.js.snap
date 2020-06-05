@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Rendering Font Components without crashing 1`] = `
+<span
+  className="sc-AxjAm CwjsI"
+  color="Indigo-900"
+  label="Body component Indigo-900"
+>
+  Body component Indigo-900
+</span>
+`;

@@ -1,0 +1,319 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Result Rendering search result template without crashing 1`] = `
+<div
+  className="sc-AxjAm cbwcBb"
+>
+  <div
+    className="sc-AxjAm sc-AxirZ hSlsA"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw eXQwvW"
+    >
+      <img
+        alt="Symphony search"
+        height={50}
+        src="Symphony-logo.jpg"
+        title="Symphony search"
+      />
+    </div>
+    <div
+      className="sc-AxjAm sc-AxiKw eXQwvW"
+    >
+      Github
+    </div>
+  </div>
+  <div
+    className="sc-AxjAm sc-AxirZ fssdFE"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw jRLkDN"
+    >
+      <input
+        className="sc-fzoyAV fMTSuE"
+        disabled={false}
+        loading={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyUp={[Function]}
+        placeholder=""
+        type="text"
+        value="react"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-AxjAm sc-AxirZ iLBWSX"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw jiZFXr"
+    >
+      <div
+        className="sc-AxjAm gSJRdo"
+        loading={false}
+      >
+        <div
+          className="sc-AxjAm sc-AxirZ gurTkc"
+        >
+          <div
+            className="sc-AxjAm sc-AxiKw eXQwvW"
+          >
+            <h4
+              className="sc-AxheI DjEpp"
+              color="Blue-Grey-300"
+              label="bundle size"
+            >
+              bundle size
+            </h4>
+          </div>
+        </div>
+        <div
+          className="sc-AxjAm sc-AxirZ dSHUZK"
+        >
+          <div
+            className="sc-AxjAm sc-AxiKw gVOZNl"
+          >
+            <div
+              className="sc-AxjAm sc-AxirZ gurTkc"
+            >
+              <div
+                className="sc-AxjAm sc-AxiKw eXQwvW"
+              >
+                <h2
+                  className="sc-AxhUy gTTLCL"
+                  color="Grey-800"
+                  label={200}
+                >
+                  200
+                </h2>
+              </div>
+            </div>
+            <div
+              className="sc-AxjAm sc-AxirZ gurTkc"
+            >
+              <div
+                className="sc-AxjAm sc-AxiKw eXQwvW"
+              >
+                <span
+                  className="sc-fzozJi gHnIcl"
+                  color="Blue-Grey-300"
+                  label="MINIFIED"
+                >
+                  MINIFIED
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-AxjAm sc-AxiKw gVOZNl"
+          >
+            <div
+              className="sc-AxjAm sc-AxirZ gurTkc"
+            >
+              <div
+                className="sc-AxjAm sc-AxiKw eXQwvW"
+              >
+                <h2
+                  className="sc-AxhUy gTTLCL"
+                  color="Grey-800"
+                  label={100}
+                >
+                  100
+                </h2>
+              </div>
+            </div>
+            <div
+              className="sc-AxjAm sc-AxirZ gurTkc"
+            >
+              <div
+                className="sc-AxjAm sc-AxiKw eXQwvW"
+              >
+                <span
+                  className="sc-fzozJi gHnIcl"
+                  color="Blue-Grey-300"
+                  label="MINIFIED + GZIPPED"
+                >
+                  MINIFIED + GZIPPED
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-AxjAm sc-AxiKw gjOpjN"
+    >
+      <div
+        className="sc-AxjAm cbwcBb"
+        loading={false}
+      >
+        <div
+          className="sc-AxjAm sc-AxirZ bxGNId"
+        >
+          <div
+            className="sc-AxjAm sc-AxiKw eXQwvW"
+          >
+            <div
+              className="sc-fzoLsD cHrDQS"
+              height="200px"
+            >
+              <div
+                className="sc-fzpans htMjTD"
+                onClick={[Function]}
+              >
+                <div
+                  className="sc-fznyAO sc-fznKkj dOGwdg"
+                  height={34.78260869565217}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY hqhHHJ"
+                  color="Blue-100"
+                  height={21.73913043478261}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY gbEWxF"
+                  color="Indigo-A700"
+                  height={43.47826086956522}
+                />
+                <div
+                  className="sc-fzplWN gjTZvc"
+                >
+                  <span
+                    className="sc-fzozJi Vjkmo"
+                    color="Blue-Grey-300"
+                    label="0.0.1"
+                  >
+                    0.0.1
+                  </span>
+                </div>
+              </div>
+              <div
+                className="sc-fzpans htMjTD"
+                onClick={[Function]}
+              >
+                <div
+                  className="sc-fznyAO sc-fznKkj dOGwdg"
+                  height={34.78260869565217}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY hqhHHJ"
+                  color="Blue-100"
+                  height={21.73913043478261}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY gbEWxF"
+                  color="Indigo-A700"
+                  height={43.47826086956522}
+                />
+                <div
+                  className="sc-fzplWN gjTZvc"
+                >
+                  <span
+                    className="sc-fzozJi Vjkmo"
+                    color="Blue-Grey-300"
+                    label="0.0.2"
+                  >
+                    0.0.2
+                  </span>
+                </div>
+              </div>
+              <div
+                className="sc-fzpans htMjTD"
+                onClick={[Function]}
+              >
+                <div
+                  className="sc-fznyAO sc-fznKkj dOGwdg"
+                  height={34.78260869565217}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY hqhHHJ"
+                  color="Blue-100"
+                  height={21.73913043478261}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY gbEWxF"
+                  color="Indigo-A700"
+                  height={43.47826086956522}
+                />
+                <div
+                  className="sc-fzplWN gjTZvc"
+                >
+                  <span
+                    className="sc-fzozJi Vjkmo"
+                    color="Blue-Grey-300"
+                    label="0.0.3"
+                  >
+                    0.0.3
+                  </span>
+                </div>
+              </div>
+              <div
+                className="sc-fzpans htMjTD"
+                onClick={[Function]}
+              >
+                <div
+                  className="sc-fznyAO sc-fznKkj dOGwdg"
+                  height={34.78260869565217}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY hqhHHJ"
+                  color="Blue-100"
+                  height={21.73913043478261}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY gbEWxF"
+                  color="Indigo-A700"
+                  height={43.47826086956522}
+                />
+                <div
+                  className="sc-fzplWN gjTZvc"
+                >
+                  <span
+                    className="sc-fzozJi Vjkmo"
+                    color="Blue-Grey-300"
+                    label="0.0.4"
+                  >
+                    0.0.4
+                  </span>
+                </div>
+              </div>
+              <div
+                className="sc-fzpans htMjTD"
+                onClick={[Function]}
+              >
+                <div
+                  className="sc-fznyAO sc-fznKkj dOGwdg"
+                  height={34.78260869565217}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY hqhHHJ"
+                  color="Blue-100"
+                  height={21.73913043478261}
+                />
+                <div
+                  className="sc-fznyAO sc-fznZeY gbEWxF"
+                  color="Indigo-A700"
+                  height={43.47826086956522}
+                />
+                <div
+                  className="sc-fzplWN gjTZvc"
+                >
+                  <span
+                    className="sc-fzozJi Vjkmo"
+                    color="Blue-Grey-300"
+                    label="0.0.5"
+                  >
+                    0.0.5
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

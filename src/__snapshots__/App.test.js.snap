@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div
+  className="sc-AxjAm hTSXUB"
+>
+  <div
+    className="sc-AxjAm sc-AxirZ fssdFE"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw jRLkDN"
+    >
+      <img
+        alt="Symphony search"
+        src="Symphony-logo.jpg"
+        title="Symphony search"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-AxjAm sc-AxirZ fssdFE"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw jRLkDN"
+    >
+      <input
+        className="sc-fzoyAV fMTSuE"
+        disabled={false}
+        loading={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyUp={[Function]}
+        placeholder="find a package"
+        type="text"
+      />
+    </div>
+  </div>
+</div>
+`;

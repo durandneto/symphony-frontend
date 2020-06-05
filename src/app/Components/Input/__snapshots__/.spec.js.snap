@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Rendering Input without crashing 1`] = `
+<input
+  className="sc-AxhCb hkRQIS"
+  disabled={false}
+  loading={false}
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onKeyUp={[Function]}
+  placeholder="Input"
+  type="text"
+  value="Test input"
+/>
+`;

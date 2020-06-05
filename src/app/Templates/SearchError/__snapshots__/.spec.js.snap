@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Error Template  Rendering error template without crashing 1`] = `
+<div
+  className="sc-AxirZ dQlgqK"
+>
+  <div
+    className="sc-AxirZ sc-AxiKw hhDFtI"
+  >
+    <div
+      className="sc-AxirZ sc-AxhCb bMXOLZ"
+    >
+      <input
+        className="sc-Axmtr hZTkBL"
+        disabled={false}
+        loading={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyUp={[Function]}
+        placeholder="find a package"
+        type="text"
+        value="react"
+      />
+      <span
+        className="sc-AxgMl ecLHbl"
+      />
+      <span
+        className="sc-AxhUy fGcKVh"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-AxirZ sc-AxiKw hhDFtI"
+  >
+    <div
+      className="sc-AxirZ sc-AxhCb bFtsKl"
+    >
+      <div
+        style={
+          Object {
+            "backgroundColor": "red",
+            "marginTop": "6px",
+            "padding": "3%",
+          }
+        }
+      >
+        <div
+          className="sc-AxirZ sc-AxiKw hhDFtI"
+        >
+          <div
+            className="sc-AxirZ sc-AxhCb bFtsKl"
+          >
+            <span
+              className="sc-AxjAm kdDxTk"
+              color="Grey-50"
+              label="Message: unknow error"
+            >
+              Message: unknow error
+            </span>
+          </div>
+        </div>
+        <div
+          className="sc-AxirZ sc-AxiKw hhDFtI"
+        >
+          <div
+            className="sc-AxirZ sc-AxhCb bFtsKl"
+          >
+            <span
+              className="sc-AxjAm gaairt"
+              color="Yellow-50"
+              label="Request time: 0"
+            >
+              Request time: 0
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

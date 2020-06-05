@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HighlightSize Rendering HighlightSize without crashing 1`] = `
+<div
+  className="sc-AxjAm gSJRdo"
+>
+  <div
+    className="sc-AxjAm sc-AxirZ gurTkc"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw eXQwvW"
+    >
+      <h4
+        className="sc-AxheI DjEpp"
+        color="Blue-Grey-300"
+        label="bundle size"
+      >
+        bundle size
+      </h4>
+    </div>
+  </div>
+  <div
+    className="sc-AxjAm sc-AxirZ dSHUZK"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw gVOZNl"
+    >
+      <div
+        className="sc-AxjAm sc-AxirZ gurTkc"
+      >
+        <div
+          className="sc-AxjAm sc-AxiKw eXQwvW"
+        >
+          <h2
+            className="sc-AxhUy gTTLCL"
+            color="Grey-800"
+            label={10}
+          >
+            10
+          </h2>
+        </div>
+      </div>
+      <div
+        className="sc-AxjAm sc-AxirZ gurTkc"
+      >
+        <div
+          className="sc-AxjAm sc-AxiKw eXQwvW"
+        >
+          <span
+            className="sc-fzozJi gHnIcl"
+            color="Blue-Grey-300"
+            label="MINIFIED"
+          >
+            MINIFIED
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-AxjAm sc-AxiKw gVOZNl"
+    >
+      <div
+        className="sc-AxjAm sc-AxirZ gurTkc"
+      >
+        <div
+          className="sc-AxjAm sc-AxiKw eXQwvW"
+        >
+          <h2
+            className="sc-AxhUy gTTLCL"
+            color="Grey-800"
+            label={20}
+          >
+            20
+          </h2>
+        </div>
+      </div>
+      <div
+        className="sc-AxjAm sc-AxirZ gurTkc"
+      >
+        <div
+          className="sc-AxjAm sc-AxiKw eXQwvW"
+        >
+          <span
+            className="sc-fzozJi gHnIcl"
+            color="Blue-Grey-300"
+            label="MINIFIED + GZIPPED"
+          >
+            MINIFIED + GZIPPED
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

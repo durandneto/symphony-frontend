@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Graph Component Rendering without crashing 1`] = `
+<div
+  className="sc-AxjAm cbwcBb"
+>
+  <div
+    className="sc-AxjAm sc-AxirZ bxGNId"
+  >
+    <div
+      className="sc-AxjAm sc-AxiKw eXQwvW"
+    >
+      <div
+        className="sc-AxhUy hVCIGX"
+        height="200px"
+      >
+        <div
+          className="sc-AxgMl iJHzDk"
+          onClick={[Function]}
+        >
+          <div
+            className="sc-Axmtr sc-AxmLO bvIDXk"
+            height={17.01244813278008}
+          />
+          <div
+            className="sc-Axmtr sc-fzozJi gmKrhF"
+            color="Blue-100"
+            height={41.49377593360996}
+          />
+          <div
+            className="sc-Axmtr sc-fzozJi geRLAJ"
+            color="Indigo-A700"
+            height={41.49377593360996}
+          />
+          <div
+            className="sc-AxheI ghDrgk"
+          >
+            <span
+              className="sc-AxhCb cwjNzG"
+              color="Blue-Grey-300"
+              label="1.0.0"
+            >
+              1.0.0
+            </span>
+          </div>
+        </div>
+        <div
+          className="sc-AxgMl iJHzDk"
+          onClick={[Function]}
+        >
+          <div
+            className="sc-Axmtr sc-AxmLO jUcSmd"
+            height={100}
+          />
+          <div
+            className="sc-Axmtr sc-fzozJi gqzTyP"
+            color="Teal-100"
+            height={0}
+          />
+          <div
+            className="sc-Axmtr sc-fzozJi gFHVTf"
+            color="Light-Green-A700"
+            height={0}
+          />
+          <div
+            className="sc-AxheI ghDrgk"
+          >
+            <span
+              className="sc-AxhCb cwjNzG"
+              color="Blue-Grey-300"
+              label="1.0.1"
+            >
+              1.0.1
+            </span>
+          </div>
+        </div>
+        <div
+          className="sc-AxgMl iJHzDk"
+          onClick={[Function]}
+        >
+          <div
+            className="sc-Axmtr sc-AxmLO eTizwB"
+            height={79.25311203319502}
+          />
+          <div
+            className="sc-Axmtr sc-fzozJi dlJLgq"
+            color="Blue-100"
+            height={20.74688796680498}
+          />
+          <div
+            className="sc-Axmtr sc-fzozJi kQOcNn"
+            color="Indigo-A700"
+            height={0}
+          />
+          <div
+            className="sc-AxheI ghDrgk"
+          >
+            <span
+              className="sc-AxhCb cwjNzG"
+              color="Blue-Grey-300"
+              label="1.0.2"
+            >
+              1.0.2
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
